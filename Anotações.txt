@@ -1,0 +1,25 @@
+node -v / verifica a versão do node
+npm -v / verifica a versão do node package manager
+
+http-server ./   -> ./ indica que é na mesma pasta
+assim subimos um servidor http local
+
+
+Javascript para web:
+window -> tudo que contém em nossa tela, para manipular o browser.
+document -> é o documento corrente, exemplo o index.html
+
+document.getElementById("nome id"); -> buscamos um elemento pelo ID declarado no documento html corrente
+btnTeste.addEventListener("click", function(){
+    console.log("clicou")
+});
+aqui escutamos o evento atravvés do addEventListener, quando ocorrer o clique, iremos executar a função de imprimir mensagem no console
+
+
+
+Sempre devemos adicionar um normalize css em nossos projetos, o famoso reset css. Para evitar quebras de estilo em navegadores distintos.
+Dica: desativar o cache em modo dev em navegadores
+
+
+dica: Mobile first, aplicar primeiro a responsividade para mobile. Depois vai aplicando o css necessário para telas maiores
+
