@@ -23,3 +23,34 @@ Dica: desativar o cache em modo dev em navegadores
 
 dica: Mobile first, aplicar primeiro a responsividade para mobile. Depois vai aplicando o css necessário para telas maiores
 
+==========================================================================================================================================================
+
+Protocolo HTTP é cliente x servidor
+
+
+requisição http:
+
+URL: ${endereço}/${path: caminho de identificação do recurso}
+
+Request method: tipo da requisição (get, post, put, delete, patch,...)
+
+
+query string & path params
+
+path params: parametros passado no caminho (URL)
+
+query string: tudo que está após "?" em um path(URL), exemplo:
+
+path: https://link.com/usuario?name=joao&age=20
+?name=joao&age=20 -> query string
+
+
+HEADERS: "configurações" da requisição.
+
+
+BODY: corpo da requisição. Informações a ser enviada/recebida atráves dos endpoints da api.
+
+STATUS CODE: código do resultado da query, exemplo 200: OK.
+
+
+
