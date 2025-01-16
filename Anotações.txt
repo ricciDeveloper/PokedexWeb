@@ -54,3 +54,5 @@ STATUS CODE: código do resultado da query, exemplo 200: OK.
 
 
 
+Promisse.all([]) => recebe uma lista de promessas 
+fetch()=> retorna response
