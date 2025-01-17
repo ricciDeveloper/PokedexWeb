@@ -163,3 +163,34 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+
+
+.pokemon {
+    position: relative;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.pokemon.expanded {
+    background: rgba(0, 0, 0, 0.1);
+    padding-bottom: 20px;
+}
+
+.pokemon-details {
+    margin-top: 10px;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    display: none;
+}
+
+.pokemon.expanded .pokemon-details {
+    display: block;
+}
+
+.pokemon-details img {
+    max-width: 100px;
+    display: block;
+    margin: 10px auto;
+}
