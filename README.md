@@ -30,5 +30,5 @@ Bem-vindo ao Pokédex Web App! 🌟 Este é um projeto interativo que consome a 
 Se tiver dúvidas ou sugestões, entre em contato:
 
 - 👨‍💻 João Victor Ricci
-👨‍🎓 [Linkedin](https://www.linkedin.com/in/joaoriccideveloper/)
-👤 [GitHub](https://github.com/ricciDeveloper)
+- 👨‍🎓 [Linkedin](https://www.linkedin.com/in/joaoriccideveloper/)
+- 👤 [GitHub](https://github.com/ricciDeveloper)
