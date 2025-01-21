@@ -24,7 +24,7 @@ Bem-vindo ao Pokédex Web App! 🌟 Este é um projeto interativo que consome a 
 - Exibe dinamicamente os detalhes dentro do card do Pokémon.
 
 ## ✨ Demonstração
-📹 ![Pokedex](public/assets/img/demo.png)
+📹 ![Pokedex](Public/assets/img/demo.png)
 
 ## 📢 Contato
 Se tiver dúvidas ou sugestões, entre em contato:
